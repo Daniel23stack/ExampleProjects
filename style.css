@@ -1,0 +1,60 @@
+
+h1
+{
+	margin: 0 0 0.1em 0;
+	font-size: 100%;
+	text-align: center;
+	color: #FFFFFF;
+}
+
+h2, h3
+{
+font-family: "Fantasy";
+text-align: center;
+color: #8000FF;
+}
+#wrapper
+ {
+		width: 800px;
+		margin: 0pt;
+		background: #ffffff;
+}
+
+#content {
+		font: 1.3em;
+		padding: 15px;
+		border-right: 1px solid #898989;
+		border-bottom: 1px solid #898989;
+		border-left: 1px solid #898989;
+		}
+		
+body
+{
+	font: 65.8%;
+	font-family: "monospace";
+	text-align: center;
+	color: #000000;
+	background-image: url(mountain.png);
+	background-repeat: repeat;
+	background-attachment: scroll;
+}
+
+.container
+{
+	width: 400px;
+	height: 400px;
+}
+
+.container img
+{
+	width: 100%;
+	height: auto;
+}
+
+
+p
+{
+ font-family: "monospace";
+ text-align: left;
+ color: #000000;
+}
